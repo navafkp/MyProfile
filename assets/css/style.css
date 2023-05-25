@@ -1068,13 +1068,13 @@ nav#navbar h1 a {
 # Footer
 --------------------------------------------------------------*/
 footer {
-  color: #fff;
-  background: #320267;
-  padding-left: 30px;
-  padding-top: 20px;
-  height: 80px;
+    color: #fff;
+    background: #320267;
+    padding-left: 30px;
+    padding-top: 20px;
+    height: 88px;
+    padding-bottom: 8px;
 }
-
 .footer-ul li {
   width: 55px;
   
